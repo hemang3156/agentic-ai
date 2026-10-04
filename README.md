@@ -1,4 +1,4 @@
-# 🤖 Learning Agentic AI — Project-First Open-Source Journey
+# Learning Agentic AI — Project-First Open-Source Journey
 
 > Building practical, autonomous AI agents completely locally with open-source tools. **$0 API cost. 100% private. No cloud lock-in.**
 
