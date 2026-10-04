@@ -88,8 +88,3 @@ pip install -r requirements.txt  # or: pip install ollama duckduckgo-search lang
 ```bash
 python student-agent/agent-tools.py
 ```
-
----
-
-## 📚 Complete Learning Guide
-The comprehensive roadmap and complete code for all 5 phases are available in **[AGENTIC_AI_GUIDE.md](./AGENTIC_AI_GUIDE.md)**.

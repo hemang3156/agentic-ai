@@ -6,3 +6,5 @@ __pycache__/
 *.log
 study_memory.json
 my_lecture_notes/
+AGENTIC_AI_GUIDE.md
+prompt.md
